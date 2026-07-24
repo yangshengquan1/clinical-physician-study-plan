@@ -1,0 +1,8 @@
+# Browser backups and local secrets must never be published.
+*.json
+!.github/**/*.json
+.env
+.env.*
+*.key
+*.pem
+node_modules/

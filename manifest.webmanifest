@@ -1,0 +1,17 @@
+{
+  "name": "临床执业医师 30 天冲刺",
+  "short_name": "执业医冲刺",
+  "description": "临床执业医师十年真题三轮刷题计划与打卡",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7f6",
+  "theme_color": "#0d6b5d",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
