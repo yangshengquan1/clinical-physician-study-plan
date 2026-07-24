@@ -1,4 +1,4 @@
-const CACHE = 'clinical-study-plan-v2';
+const CACHE = 'clinical-study-plan-v3';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon.svg'];
 
 self.addEventListener('install', event => {
